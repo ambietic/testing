@@ -6,5 +6,7 @@
   "Tags": [    "map",    "mapping",    "overlay",    "utility" ],
   "InternalName": "mappy",
   "RepoUrl": "https://github.com/ambietic/testing",
-  "AcceptsFeedback": false
+  "DownloadLinkInstall": "https://github.com/ambietic/testing/archive/refs/tags/aa.zip",
+  "DownloadLinkTesting": "https://github.com/ambietic/testing/archive/refs/tags/aa.zip",
+  "DownloadLinkUpdate": "https://github.com/ambietic/testing/archive/refs/tags/aa.zip",
 }
