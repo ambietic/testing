@@ -328,7 +328,7 @@ public class MapWindow : Window {
     private void ProcessMapDragStart() {
         // Don't allow a drag to start if the window size is changing
         if (ImGui.GetWindowSize() == lastWindowSize) {
-            if (ImGui.IsItemClicked(ImGuiMouseButton.Left) && !isDragStarted) {
+            if (ImGui.IsItemClicked(ImGuiMouseButton.Right) && !isDragStarted) {
                 isDragStarted = true;
                 System.SystemConfig.FollowPlayer = false;
             }
