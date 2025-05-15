@@ -5,6 +5,7 @@
   "Description": "Replaces the in-game map with an ImGui implementation with several additional features.",
   "Tags": [    "map",    "mapping",    "overlay",    "utility" ],
   "InternalName": "mappy",
+  "DalamudApiLevel": "12",
   "RepoUrl": "https://github.com/ambietic/testing",
   "DownloadLinkInstall": "https://github.com/ambietic/testing/archive/refs/tags/aa.zip",
   "DownloadLinkTesting": "https://github.com/ambietic/testing/archive/refs/tags/aa.zip",
