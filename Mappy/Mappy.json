@@ -1,10 +1,10 @@
 {
-  "Author": "MidoriKami",
+  "Author": "ambietic",
   "Name": "Mappy",
   "Punchline": "A more versatile in-game map",
   "Description": "Replaces the in-game map with an ImGui implementation with several additional features.",
   "Tags": [    "map",    "mapping",    "overlay",    "utility" ],
   "InternalName": "mappy",
-  "RepoUrl": "https://github.com/MidoriKami/Mappy",
+  "RepoUrl": "https://github.com/ambietic/Mappy",
   "AcceptsFeedback": false
 }
