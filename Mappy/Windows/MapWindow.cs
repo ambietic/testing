@@ -36,7 +36,7 @@ public class MapWindow : Window {
     private readonly MapCoordinateBar mapCoordinateBar = new();
     private readonly MapContextMenu mapContextMenu = new();
 
-    public MapWindow() : base("###MappyMapWindow", new Vector2(400.0f, 250.0f)) {
+    public MapWindow() : base("###MappyMapWindow", new Vector2(100.0f, 100.0f)) {
         UpdateTitle();
 
         DisableWindowSounds = true;
