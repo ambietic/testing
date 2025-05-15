@@ -5,6 +5,6 @@
   "Description": "Replaces the in-game map with an ImGui implementation with several additional features.",
   "Tags": [    "map",    "mapping",    "overlay",    "utility" ],
   "InternalName": "mappy",
-  "RepoUrl": "https://github.com/ambietic/Mappy",
+  "RepoUrl": "https://github.com/ambietic/testing",
   "AcceptsFeedback": false
 }
