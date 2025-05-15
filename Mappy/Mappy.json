@@ -1,6 +1,6 @@
 {
   "Author": "ambietic",
-  "Name": "Mappy",
+  "Name": "Mappyx",
   "Punchline": "A more versatile in-game map",
   "Description": "Replaces the in-game map with an ImGui implementation with several additional features.",
   "Tags": [    "map",    "mapping",    "overlay",    "utility" ],
